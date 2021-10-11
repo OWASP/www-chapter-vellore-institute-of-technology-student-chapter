@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Vellore Institute of Technology Student Chapter
-tags: example-tag
+tags: VIT
 region: Asia
 meetup-group:
 
