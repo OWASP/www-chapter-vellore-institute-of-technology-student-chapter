@@ -22,11 +22,10 @@ Chapters are led by local leaders in accordance with the [Chapters Policy](/www-
 Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/), and [Community Slack Channel](https://owasp.slack.com/). We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
 
 ## Past Events
-<ul><li>WASPCON</li><li>TOVC 1.0</li><li>Tetraflip</li><li>Doge Quiz</li><li>ICRTAC 2021</li></ul>
+<ul><li>WASPCON</li><li>TOVC 1.0</li><li>Tetraflip</li><li>Doge Quiz</li><li>OpenGov Hackathon</li></ul>
 
 Follow us on: [Instagram](https://www.instagram.com/owaspvit/)|[LinkedIn](https://www.linkedin.com/company/owasp-vit-student-chapter)|[Twitter](https://twitter.com/owaspvit)|[Discord](https://discord.gg/rKqdRUDvSw)
 
 Stay Updated, Stay Safe! 
 <!--Next Meeting/Event  You should keep this section as it will populate your meetup events -->
 {% include chapter_events.html group=page.meetup-group %}
-
