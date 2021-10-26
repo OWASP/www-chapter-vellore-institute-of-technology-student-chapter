@@ -1,5 +1,5 @@
 ### Vellore Institute of Technology Student Chapter Information
-* Provide Group Information
+* [Join us at our Discord](https://discord.gg/rKqdRUDvSw)
 
 ### Social Links
 * [Instagram](https://www.instagram.com/owaspvit/)
