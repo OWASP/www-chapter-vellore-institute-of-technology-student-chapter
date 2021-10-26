@@ -18,7 +18,7 @@ With a strength of more than 100 active contributors, we have actually mentored 
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
 ## Past Events
-<ul><li><a href="https://owaspvit.com/waspcon/")>WASPCON</a></li><li>TOVC 1.0</li><li><a href="https://tetraflip.owaspvit.com/">Tetraflip</a></li><li>Doge Quiz</li><li>OpenGov Hackathon</li></ul>
+<ul><li><a href="https://owaspvit.com/waspcon/">WASPCON</a></li><li>TOVC 1.0</li><li><a href="https://tetraflip.owaspvit.com/">Tetraflip</a></li><li>Doge Quiz</li><li>OpenGov Hackathon</li></ul>
 
 ## Sharing your knowledge at OWASP VIT Student Chapter Events
 <b>Call For Speakers</b>
