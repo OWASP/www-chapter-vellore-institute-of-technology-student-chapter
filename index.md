@@ -21,13 +21,15 @@ The Open Web Application Security Project (OWASP) is a nonprofit foundation that
 <ul><li><a href="https://owaspvit.com/waspcon/">WASPCON</a></li><li>TOVC 1.0</li><li><a href="https://tetraflip.owaspvit.com/">Tetraflip</a></li><li>Doge Quiz</li><li>OpenGov Hackathon</li></ul>
 
 ## Sharing your knowledge at OWASP VIT Student Chapter Events
-<b>Call For Speakers</b>
+<b>Call For Speakers</b><br>
 Call for speakers is open. If You want to join us for sharing your knowledge about cybersecurity, specially Application Security at future events, please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and share the speaker's bio and relavant topic & abstract of the proposed talk via e-mail to <a>owasp@vit.ac.in</a>
 
 ## Previous Chapter Leaders
 <ul><li><a href="https://www.linkedin.com/in/apratimshukla6/">Apratim Shukla</a></li><li><a href="https://www.linkedin.com/in/arnav-tripathy-202177173/">Arnav Tripathy</a></li><li><a href="https://www.linkedin.com/in/sharadagarwal1126/">Sharad Agarwal</a></li></ul>
 
-Follow us on: [Instagram](https://www.instagram.com/owaspvit/)|[LinkedIn](https://www.linkedin.com/company/owasp-vit-student-chapter)|[Twitter](https://twitter.com/owaspvit)|[Discord](https://discord.gg/rKqdRUDvSw)
+## Previous Chapter Board Members
+<ul><li><a href="https://www.linkedin.com/in/prince-singh-2749a5172/">Prince Singh</a></li><li><a href="https://www.linkedin.com/in/lakshay-baheti-b1a9a245/">Lakshay Baheti</a></li><li><a href="https://www.linkedin.com/in/aakash-ratha-72b552191/">Aakash Ratha</a></li><li><a href="https://www.linkedin.com/in/raghav-daga/">Raghav Daga</a></li><li><a href="https://www.linkedin.com/in/swapnil0115/">Swapnil Mishra</a></li><li><a href="https://www.linkedin.com/in/shubham-manna-163a31136/">Shubham Manna</a></li></ul>
+
 
 Stay Updated, Stay Safe! 
 <!--Next Meeting/Event  You should keep this section as it will populate your meetup events -->
