@@ -34,3 +34,5 @@ Call for speakers is open. If you want to join us for sharing your knowledge abo
 Stay Updated, Stay Safe! 
 <!--Next Meeting/Event  You should keep this section as it will populate your meetup events -->
 {% include chapter_events.html group=page.meetup-group %}
+
+<a class="twitter-timeline" href="https://twitter.com/owaspvit?ref_src=twsrc%5Etfw">Tweets by owaspvit</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
