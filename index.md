@@ -22,7 +22,7 @@ The Open Web Application Security Project (OWASP) is a nonprofit foundation that
 
 ## Sharing your knowledge at OWASP VIT Student Chapter Events
 <b>Call For Speakers</b><br>
-Call for speakers is open. If you want to join us for sharing your knowledge about cybersecurity, specially Application Security at future events, please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and share the speaker's bio and relevant topic & abstract of the proposed talk via e-mail to <a>owasp@vit.ac.in</a>
+Call for speakers is open. If you want to join us for sharing your knowledge about cybersecurity, specially Application Security at future events, please review and the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and share the speaker's bio and relevant topic & abstract of the proposed talk via e-mail to <a>owasp@vit.ac.in</a>
 
 ## Previous Chapter Leaders
 <ul><li><a href="https://www.linkedin.com/in/apratimshukla6/">Apratim Shukla</a></li><li><a href="https://www.linkedin.com/in/arnav-tripathy-202177173/">Arnav Tripathy</a></li><li><a href="https://www.linkedin.com/in/rajdeep-singh-505375167/">Rajdeep Singh</a></li><li><a href="https://www.linkedin.com/in/aditya-dobriyal-b4648a129/">Aditya Dobriyal</a></li><li><a href="https://www.linkedin.com/in/sharadagarwal1126/">Sharad Agarwal</a></li></ul>
