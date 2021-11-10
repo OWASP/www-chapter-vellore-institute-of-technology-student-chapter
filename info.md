@@ -2,6 +2,7 @@
 * [Join us at our Discord](https://discord.gg/rKqdRUDvSw)
 
 ### Social Links
+* [Meetup Group](https://www.meetup.com/owasp-vit-student-chapter/)
 * [Instagram](https://www.instagram.com/owaspvit/)
 * [linkedIn](https://www.linkedin.com/company/owasp-vit-student-chapter)
 * [Twitter](https://twitter.com/owaspvit)
