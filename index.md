@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Vellore Institute of Technology Student Chapter
 tags: VIT
 region: Asia
-meetup-group:
+meetup-group: owasp-vit-student-chapter
 
 ---
 
@@ -32,7 +32,8 @@ Call for speakers is open. If you want to join us for sharing your knowledge abo
 
 
 Stay Updated, Stay Safe! 
-<!--Next Meeting/Event  You should keep this section as it will populate your meetup events -->
+
+## Next Meeting/Event:  
 {% include chapter_events.html group=page.meetup-group %}
 
 <a class="twitter-timeline" data-width="1200" data-height="600" data-theme="light" href="https://twitter.com/owaspvit?ref_src=twsrc%5Etfw">Tweets by owaspvit</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
