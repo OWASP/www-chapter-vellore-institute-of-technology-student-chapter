@@ -1,5 +1,6 @@
 ### Vellore Institute of Technology Student Chapter Information
 * [Join us at our Discord](https://discord.gg/rKqdRUDvSw)
+* [Join the discussion at our Meetup](https://www.meetup.com/owasp-vit-student-chapter/)
 
 ### Social Links
 * [Meetup Group](https://www.meetup.com/owasp-vit-student-chapter/)
