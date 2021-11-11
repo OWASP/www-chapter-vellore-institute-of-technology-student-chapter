@@ -24,12 +24,6 @@ The Open Web Application Security Project (OWASP) is a nonprofit foundation that
 <b>Call For Speakers</b><br>
 Call for speakers is open. If you want to join us for sharing your knowledge about cybersecurity, specially Application Security at future events, please review the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and ping us at <a>owasp@vit.ac.in</a> and fill this form [Speaker Submission](https://docs.google.com/forms/d/e/1FAIpQLSdAaGIcS1KC-9y-mv_DorSkxeSjN9mRxNBqibSEWXRzoihV0w/viewform).
 
-## Previous Chapter Leaders
-<ul><li><a href="https://www.linkedin.com/in/apratimshukla6/">Apratim Shukla</a></li><li><a href="https://www.linkedin.com/in/arnav-tripathy-202177173/">Arnav Tripathy</a></li><li><a href="https://www.linkedin.com/in/rajdeep-singh-505375167/">Rajdeep Singh</a></li><li><a href="https://www.linkedin.com/in/aditya-dobriyal-b4648a129/">Aditya Dobriyal</a></li><li><a href="https://www.linkedin.com/in/sharadagarwal1126/">Sharad Agarwal</a></li></ul>
-
-## Previous Chapter Board Members
-<ul><li><a href="https://www.linkedin.com/in/prince-singh-2749a5172/">Prince Singh</a></li><li><a href="https://www.linkedin.com/in/lakshay-baheti-b1a9a245/">Lakshay Baheti</a></li><li><a href="https://www.linkedin.com/in/aakash-ratha-72b552191/">Aakash Ratha</a></li><li><a href="https://www.linkedin.com/in/raghav-daga/">Raghav Daga</a></li><li><a href="https://www.linkedin.com/in/swapnil0115/">Swapnil Mishra</a></li><li><a href="https://www.linkedin.com/in/shubham-manna-163a31136/">Shubham Manna</a></li></ul>
-
 
 Stay Updated, Stay Safe! 
 
