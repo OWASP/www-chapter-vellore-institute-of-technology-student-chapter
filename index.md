@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Vellore Institute of Technology Student Chapter
-tags: VIT
+tags: OWASP VIT Chennai Student Chapter
 region: Asia
 meetup-group: owasp-vit-student-chapter
 
