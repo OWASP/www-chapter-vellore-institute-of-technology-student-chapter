@@ -29,5 +29,3 @@ Stay Updated, Stay Safe!
 
 ## Next Meeting/Event:  
 {% include chapter_events.html group=page.meetup-group %}
-
-<a class="twitter-timeline" data-width="1200" data-height="600" data-theme="light" href="https://twitter.com/owaspvit?ref_src=twsrc%5Etfw">Tweets by owaspvit</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
