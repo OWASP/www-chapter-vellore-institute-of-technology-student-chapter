@@ -1,5 +1,5 @@
 ---
-title: PreviousLeaders
+title: previousleaders
 displaytext: Previous Leaders
 layout: null
 tab: true
