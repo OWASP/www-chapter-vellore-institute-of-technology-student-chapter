@@ -23,29 +23,25 @@ WASPCON was a two-day workshop marathon conducted for the budding cybersecurity 
 
 Day 1 (9th October 2021)-
 
-11 AM - Introduction to Cyber Security by Prathamesh Churi
+11 AM - Introduction to Cyber Security by [Prof. Prathamesh Churi](https://www.linkedin.com/in/prathameshchuri/)
 
-3 PM - Web App Security by Sudhkar Muthani
+3 PM - Web App Security by [Sudhakar Muthumani](https://www.linkedin.com/in/sudhakarmuthumani/)
 
-7 PM - CTF and a Hands on Session
+7 PM - CTF cum Hands-on-Session
 
 Day 2 (10th October 2021)-
 
-11 AM - Cloud Hacking by Sagar Patra
+11 AM - Cloud Hacking by [Sagar Patra](https://www.linkedin.com/in/sagar-patra-2aa975166/)
 
-3 PM - Android App Security by Raunak Parmar and Sachin Bhatia
+3 PM - Android App Security by [Raunak Parmar](https://www.linkedin.com/in/trouble1raunak/) and [Sachit Bhatia](https://www.linkedin.com/in/sachitbhatia/)
 
 7 PM - Quiz Competition
 
-### [Valowasp](https://owaspvit.org/valowasp)
 
-VALOWASP was a gaming tournament conducted for players of Valorant, a first person shooter game. It was conducted as a fun gaming session. We also had an informative session explaining the security risks associated with anti-cheat engines, like the Vanguard engine used in Valorant.
-
-**Date and time:** 3:00 PM on 4th September, 2021.
 
 ### [TOVC 1.0](https://owaspvit.org/ctf/)
 
-TOVC 1.0 was the first CTF we ever conducted. It had an introductory session regarding CTFs. The session was  taken by Sairam Kesavan and the head of our Technical Team, Lakshay Baheti.
+TOVC 1.0 was the first CTF we ever conducted. It had an Introductory-cum-Beginner Guide session regarding CTFs. The session was taken by [Sriram Kesavan](https://www.linkedin.com/in/sriramkesavan/) and our ex-board member, [Lakshay Baheti](https://www.linkedin.com/in/lakshay-baheti-b1a9a245/).
 
 **Date and Time:** 24th-25th July, 2021
 
@@ -55,9 +51,9 @@ TOVC 1.0 was the first CTF we ever conducted. It had an introductory session reg
 
 Day 1 (24th July 2021)-
 
-11 AM - Introductory Session
+11 AM - Introductory-cum-Beginner Guide session
 
-3 PM - Commencement of TOVC 1.0
+3 PM - CTF begins
 
 Day 2 (25th July 2021)-
 
@@ -65,10 +61,22 @@ Day 2 (25th July 2021)-
 
 ### [TetraFlip](https://tetraflip.owaspvit.com/)
 
-TetraFlip was a hackathon and an ideathon. Anyone could register free of cost to take part in the event, and have an opportunity to win prizes and goodies worth Rs. 50,000+ and internship opportunities, along with a chance to interact with mentors from top MNCs like Microsoft, American Express, Sabre, Air Asia etc.
+Tetraflip was the largest hackathon conducted by OWASP VIT Chennai and Android Club of VIT Chennai between 30th April 2021 to 2nd May 2021. It brought along it more than 500+ several talented and creative students across the world to compete over forty-eight hours where every team had to develop inventive solutions for real-world problems. It accomplished in sparking innovation, attracting, and educating new talent and make new channels for collaboration between students and professionals. Our main sponsor were Devfolio, Portis, Tezos, Polygon, Celo, Wolfram Language, BotVFX, Code Asylums and Knowledge Partner was GeeksforGeeks.
+
+<br>
+Mentors  for Tetraflip - 
+<ul><li>Arnav Tripathy</li>
+<li>Shubham Sharma</li>
+<li>TV Sai Sankalp Reddy</li>
+<li>Surya Balakrishnan</li>
+<li>Gaurav Acharya </li>
+<li>Sarthak Mehta </li>
+<li>Dwij Sukesh Kumar Sheth </li>
+</ul>
 
 **Date:** 30th April, 2021 - 2nd May, 2021
 
+  
 ### [DogeQuiz](https://owaspvit.com/quiz-event/)
 
 OWASP VITCC conducted DogeQuiz, a forensics and networking themed quiz meant to test the participants' knowledge with the best and the brightest in the field
@@ -77,6 +85,15 @@ OWASP VITCC conducted DogeQuiz, a forensics and networking themed quiz meant to 
 
 **Venue:** Virtual
 
+
+### [OpenGov Hackathon](https://www.instagram.com/p/CT-WSaGBGFl)
+
+A 24 hour long hackathon, this was an event we held for machine learning and internet of things enthusiasts. With opportunities to win goodies worth Rs. 30,000, participants worked on their ideas and its implementation. The same was presented at the final event.
+
+**Date:** 14th-15th February, 2020
+
+**Venue:** VIT Chennai Campus
+
 ### [Smart Campus Ideathon](https://www.instagram.com/p/BmNmy_FBY7-/)
 
 This was a 12 hour long brainstorming session, where participants gained knowledge the smart way, and had lots of fun simultaneously.
@@ -84,9 +101,3 @@ This was a 12 hour long brainstorming session, where participants gained knowled
 **Date and time:** 10th-11th August, 2018
 
 **Venue:** VIT Chennai Campus
-
-### [OpenGov Hackathon](https://www.instagram.com/p/CT-WSaGBGFl)
-
-A 24 hour long hackathon, this was an event we held for machine learning and internet of things enthusiasts. With opportunities to win goodies worth Rs. 30,000, participants worked on their ideas and its implementation. The same was presented at the final event.
-
-**Date:** 14th-15th February, 2020
