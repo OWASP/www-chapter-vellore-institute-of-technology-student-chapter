@@ -18,14 +18,11 @@ With a strength of more than 100 active contributors, we have actually mentored 
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
 ## Past Events
-<ul><li><a href="https://owaspvit.com/waspcon/">WASPCON</a></li><li>TOVC 1.0</li><li><a href="https://tetraflip.owaspvit.com/">Tetraflip</a></li><li>Doge Quiz</li><li>OpenGov Hackathon</li></ul>
+<ul><li><a href="https://owaspvit.com/waspcon/">WASPCON</a></li><li><a href="https://owaspvit.com/valowasp/">Valowasp</a></li><li>TOVC 1.0</li><li><a href="https://tetraflip.owaspvit.com/">Tetraflip</a></li><li>Doge Quiz</li><li>OpenGov Hackathon</li></ul>
 
 ## Sharing your knowledge at OWASP VIT Student Chapter Events
 <b>Call For Speakers</b><br>
-Call for speakers is open. If you want to join us for sharing your knowledge about cybersecurity, specially Application Security at future events, please review the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and ping us at <a>owasp@vit.ac.in</a> and fill this form [Speaker Submission](https://docs.google.com/forms/d/e/1FAIpQLSdAaGIcS1KC-9y-mv_DorSkxeSjN9mRxNBqibSEWXRzoihV0w/viewform).
+Call for speakers is open. If you want to join us for sharing your knowledge about cybersecurity, specially application security at future events, please review the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and ping us at <a>owasp@vit.ac.in</a> and fill this form [Speaker Submission](https://docs.google.com/forms/d/e/1FAIpQLSdAaGIcS1KC-9y-mv_DorSkxeSjN9mRxNBqibSEWXRzoihV0w/viewform).
 
 
-Stay Updated, Stay Safe! 
-
-## Next Meeting/Event:  
-{% include chapter_events.html group=page.meetup-group %}
+Stay Updated, Stay Safe!
