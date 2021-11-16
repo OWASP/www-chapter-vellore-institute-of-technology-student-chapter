@@ -17,8 +17,9 @@ With a strength of more than 100 active contributors, we have actually mentored 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
-## Pooling of Knowledge
+## Monthly webinars
 <b>Call For Speakers</b><br>
-Call for speakers is open. If you want to join us for sharing your knowledge about cybersecurity, specially application security at future events, please review the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and ping us at <a>owasp@vit.ac.in</a> and fill this form [Speaker Submission](https://docs.google.com/forms/d/e/1FAIpQLSdAaGIcS1KC-9y-mv_DorSkxeSjN9mRxNBqibSEWXRzoihV0w/viewform).
+Starting from January, 2022, we will be scheduling monthly speaker sessions of 1-2 hr duration on the domains of:<b><ul><li>General Cybersec Awareness</li><li>Cybersec focused techincal topics</li></ul></b><br>
+<b>Call for speakers:</b> If you want to join us for sharing your knowledge on any of the above mentioned domains or for any of our upcoming events, then please review the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and share your bio at <a>owasp@vit.ac.in</a> (Bio includes: name, email id, contact number, topic for the session, linkedin profile, website link if any).
 
-Stay Updated, Stay Safe!
+<b>Stay Updated, Stay Safe!</b>
