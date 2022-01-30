@@ -26,6 +26,4 @@ Starting from January, 2022, we will be scheduling monthly speaker sessions of 1
     <li><b>Cybersec focused techincal topics</b></li>
 </ul><br>
 
-<b>Call for speakers:</b> If you want to join us for sharing your knowledge on any of the above mentioned domains or for any of our upcoming events, then please review the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and share your bio at <a>owasp@vit.ac.in</a> (Bio includes: name, email id, contact number, topic for the session, linkedin profile, website link if any).
-
 <b>Stay Updated, Stay Safe!</b>
