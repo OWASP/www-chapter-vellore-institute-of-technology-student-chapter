@@ -9,9 +9,9 @@ tags: OWASP VIT Chennai Student Chapter
 ---
 
 
-## Check out our recent activities on Twitter!
+<!-- ## Check out our recent activities on Twitter!
 
-<a class="twitter-timeline" data-dnt="true" data-width="70%" data-height="1000px" data-theme="light" href="https://twitter.com/owaspvit">Tweets by owaspvit</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-dnt="true" data-width="70%" data-height="1000px" data-theme="light" href="https://twitter.com/owaspvit">Tweets by owaspvit</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
 ## Check out some blogs and posts we have published!
 
