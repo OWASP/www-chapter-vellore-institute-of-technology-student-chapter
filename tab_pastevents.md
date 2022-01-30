@@ -11,7 +11,7 @@ tags: OWASP VIT Chennai Student Chapter
 
 ## Past Events
 
-### [WASPCON](https://owaspvit.com/waspcon/)
+### WASPCON
 
 WASPCON was a two-day workshop marathon conducted for the budding cybersecurity aspirants. The event was open for all the tech enthusiasts out there. Experienced professionals conducted webinars on topics like introduction to cybersecurity, careers in cybersecurity, cloud hacking, android app security and web app security  which helped a lot of students. It was followed by a hands-on CTF and a quiz.
 
@@ -39,7 +39,7 @@ Day 2 (10th October 2021)-
 
 
 
-### [TOVC 1.0](https://owaspvit.org/ctf/)
+### TOVC 1.0
 
 TOVC 1.0 was the first CTF we ever conducted. It had an Introductory-cum-Beginner Guide session regarding CTFs. The session was taken by [Sriram Kesavan](https://www.linkedin.com/in/sriramkesavan/) and our ex-board member, [Lakshay Baheti](https://www.linkedin.com/in/lakshay-baheti-b1a9a245/).
 
@@ -59,7 +59,7 @@ Day 2 (25th July 2021)-
 
 9 AM - TOVC 1.0 Concludes
 
-### [TetraFlip](https://tetraflip.owaspvit.com/)
+### TetraFlip
 
 Tetraflip was the largest hackathon conducted by OWASP VIT Chennai and Android Club of VIT Chennai between 30th April 2021 to 2nd May 2021. It brought along it more than 500+ several talented and creative students across the world to compete over forty-eight hours where every team had to develop inventive solutions for real-world problems. It accomplished in sparking innovation, attracting, and educating new talent and make new channels for collaboration between students and professionals. Our main sponsor were Devfolio, Portis, Tezos, Polygon, Celo, Wolfram Language, BotVFX, Code Asylums and Knowledge Partner was GeeksforGeeks.
 
@@ -77,7 +77,7 @@ Mentors  for Tetraflip -
 **Date:** 30th April, 2021 - 2nd May, 2021
 
   
-### [DogeQuiz](https://owaspvit.com/quiz-event/)
+### DogeQuiz
 
 OWASP VITCC conducted DogeQuiz, a forensics and networking themed quiz meant to test the participants' knowledge with the best and the brightest in the field
 
@@ -86,7 +86,7 @@ OWASP VITCC conducted DogeQuiz, a forensics and networking themed quiz meant to 
 **Venue:** Virtual
 
 
-### [OpenGov Hackathon](https://www.instagram.com/p/CT-WSaGBGFl)
+### OpenGov Hackathon
 
 A 24 hour long hackathon, this was an event we held for machine learning and internet of things enthusiasts. With opportunities to win goodies worth Rs. 30,000, participants worked on their ideas and its implementation. The same was presented at the final event.
 
@@ -94,7 +94,7 @@ A 24 hour long hackathon, this was an event we held for machine learning and int
 
 **Venue:** VIT Chennai Campus
 
-### [Smart Campus Ideathon](https://www.instagram.com/p/BmNmy_FBY7-/)
+### Smart Campus Ideathon
 
 This was a 12 hour long brainstorming session, where participants gained knowledge the smart way, and had lots of fun simultaneously.
 
