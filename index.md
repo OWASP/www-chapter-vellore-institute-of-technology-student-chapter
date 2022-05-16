@@ -23,7 +23,7 @@ Starting from January, 2022, we will be scheduling monthly speaker sessions of 1
 
 <ul>
     <li><b>General Cybersec Awareness</b></li>
-    <li><b>Cybersec focused techincal topics</b></li>
+    <li><b>Cybersec focused technical topics</b></li>
 </ul><br>
 
 <b>Stay Updated, Stay Safe!</b>
